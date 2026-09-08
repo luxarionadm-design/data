@@ -1,7 +1,6 @@
 /**
  * Attribute.js
  * Manajemen attribute untuk text editor
- * Meniru pola WebGLAttributes dari Three.js
  */
 
 function Attributes() {
