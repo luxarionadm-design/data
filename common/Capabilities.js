@@ -1,7 +1,6 @@
 /**
  * Capabilities.js
  * Deteksi kemampuan browser untuk text editor
- * Meniru persis pola WebGLCapabilities dari Three.js
  */
 
 function Capabilities() {
